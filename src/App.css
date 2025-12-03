@@ -23,12 +23,12 @@ html{
 .nav-menu{
   /* display: none; */
   list-style: none;
-  padding: 20px;
-  margin: 0;
+  /* padding: 20px; */
+  /* margin: 0; */
   background-color: #2A2A2A;
   flex-direction: column;
   /* width: 80px; */
-  /* margin-top: 30px; */
+  margin-top: 30px;
   /* position: absolute; */
   top: 55px;
   /* left: 180px; */
@@ -145,6 +145,7 @@ html{
   background-color: #808080;
   padding: 60px 15px;
   text-align: left;
+  overflow-x: hidden;
 }
 
 .hero-content{
@@ -185,6 +186,7 @@ html{
   background-color: #1A1A2E;
   padding: 20px 20px;
   text-align: center;
+  overflow-x: hidden;
 }
 
 .real-world-title{
@@ -247,6 +249,7 @@ html{
 .leading-market{
   padding: 40px 20px;
   background-color: white;
+  overflow-x: hidden;
 }
 
 .leading-content{
@@ -302,6 +305,7 @@ html{
 .stats-section{
   background-color: #0F1B35;
   padding: 40px 20px;
+  overflow-x: hidden;
 }
 
 .stats-container{
@@ -339,6 +343,7 @@ html{
   background-color: #AAAAAA;
   color: white;
   padding: 40px 20px 20px;
+  overflow-x: hidden;
 }
 
 .footer-content{
