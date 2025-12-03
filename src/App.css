@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 body{
@@ -40,7 +40,7 @@ html{
   height: calc(100vh - var(55px));
   transition: transform 0.3sec ease-in-out;
   box-sizing: border-box;
-  margin-right: 30px;
+  /* margin-right: 30px; */
   overflow: hidden;
 }
 
