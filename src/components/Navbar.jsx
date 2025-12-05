@@ -32,10 +32,10 @@ function Navbar () {
                 </ul> 
                 <div className="nav-right">
                     <div className="social-icons"> 
-                        <a href="#">Instagram</a>
-                        <a href="#">Twitter</a>
-                        <a href="#">LinkedIn</a>
-                        <a href="#">Facebook</a>
+                        <a href="#"><img src="/images/instagram.svg" alt="" /></a>
+                        <a href="#"><img src="/images/linkedin.svg" alt="" /></a>
+                        <a href="#"><img src="/images/twitter.svg" alt="" /></a>
+                        <a href="#"><img src="/images/facebook.svg" alt="" /></a>
                     </div>
                     <div className="phone-box">
                         <p className="phone-label">Need Help</p>
